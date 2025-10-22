@@ -1,0 +1,34 @@
+F:\Programming\Система Онлайн Заказов\ProgramOrder\bin\Debug\net8.0-windows\ProgramOrder.exe
+F:\Programming\Система Онлайн Заказов\ProgramOrder\bin\Debug\net8.0-windows\ProgramOrder.deps.json
+F:\Programming\Система Онлайн Заказов\ProgramOrder\bin\Debug\net8.0-windows\ProgramOrder.runtimeconfig.json
+F:\Programming\Система Онлайн Заказов\ProgramOrder\bin\Debug\net8.0-windows\ProgramOrder.dll
+F:\Programming\Система Онлайн Заказов\ProgramOrder\bin\Debug\net8.0-windows\ProgramOrder.pdb
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.Form1.resources
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.csproj.GenerateResource.cache
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.AssemblyInfoInputs.cache
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.AssemblyInfo.cs
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.csproj.CoreCompileInputs.cache
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.dll
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\refint\ProgramOrder.dll
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.pdb
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.genruntimeconfig.cache
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ref\ProgramOrder.dll
+F:\Programming\Система Онлайн Заказов\ProgramOrder\obj\Debug\net8.0-windows\ProgramOrder.Properties.Resources.resources
+F:\Programming\MovieTicketSystem\PurchaseProgram\bin\Debug\net8.0-windows\ProgramOrder.exe
+F:\Programming\MovieTicketSystem\PurchaseProgram\bin\Debug\net8.0-windows\ProgramOrder.deps.json
+F:\Programming\MovieTicketSystem\PurchaseProgram\bin\Debug\net8.0-windows\ProgramOrder.runtimeconfig.json
+F:\Programming\MovieTicketSystem\PurchaseProgram\bin\Debug\net8.0-windows\ProgramOrder.dll
+F:\Programming\MovieTicketSystem\PurchaseProgram\bin\Debug\net8.0-windows\ProgramOrder.pdb
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.Form1.resources
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.Properties.Resources.resources
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.csproj.GenerateResource.cache
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.AssemblyInfoInputs.cache
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.AssemblyInfo.cs
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.csproj.CoreCompileInputs.cache
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.dll
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\refint\ProgramOrder.dll
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.pdb
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ProgramOrder.genruntimeconfig.cache
+F:\Programming\MovieTicketSystem\PurchaseProgram\obj\Debug\net8.0-windows\ref\ProgramOrder.dll
