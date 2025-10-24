@@ -30,7 +30,7 @@
         {
             dateNow = new Label();
             CinemaName = new Label();
-            groupBox1 = new GroupBox();
+            groupBox = new GroupBox();
             CinemaScreen = new Label();
             pictureBox1 = new PictureBox();
             BuyTicket = new Button();
@@ -41,17 +41,17 @@
             SignIn = new Button();
             Registration = new Button();
             TitlePanel = new Label();
-            panel1 = new Panel();
+            Panel = new Panel();
             Balance = new Label();
             NickName = new Label();
             TextBalance = new Label();
             TextNickname = new Label();
             StatusPurchased = new Label();
             PriceTicket = new Label();
-            groupBox1.SuspendLayout();
+            groupBox.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)trackBar).BeginInit();
-            panel1.SuspendLayout();
+            Panel.SuspendLayout();
             SuspendLayout();
             // 
             // dateNow
@@ -72,16 +72,16 @@
             CinemaName.TabIndex = 1;
             CinemaName.Text = "Название фильма";
             // 
-            // groupBox1
+            // groupBox
             // 
-            groupBox1.Controls.Add(CinemaScreen);
-            groupBox1.Controls.Add(pictureBox1);
-            groupBox1.Location = new Point(12, 145);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(776, 242);
-            groupBox1.TabIndex = 2;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "Кинозал 1";
+            groupBox.Controls.Add(CinemaScreen);
+            groupBox.Controls.Add(pictureBox1);
+            groupBox.Location = new Point(12, 145);
+            groupBox.Name = "groupBox";
+            groupBox.Size = new Size(776, 242);
+            groupBox.TabIndex = 2;
+            groupBox.TabStop = false;
+            groupBox.Text = "Кинозал 1";
             // 
             // CinemaScreen
             // 
@@ -107,6 +107,8 @@
             // 
             BuyTicket.BackColor = Color.Lime;
             BuyTicket.BackgroundImageLayout = ImageLayout.Center;
+            BuyTicket.FlatAppearance.BorderSize = 0;
+            BuyTicket.FlatStyle = FlatStyle.Flat;
             BuyTicket.Location = new Point(486, 403);
             BuyTicket.Name = "BuyTicket";
             BuyTicket.Size = new Size(128, 37);
@@ -151,22 +153,28 @@
             // 
             // SignIn
             // 
+            SignIn.BackColor = SystemColors.ControlDark;
+            SignIn.FlatAppearance.BorderSize = 0;
+            SignIn.FlatStyle = FlatStyle.Flat;
             SignIn.Location = new Point(476, 12);
             SignIn.Name = "SignIn";
             SignIn.Size = new Size(108, 23);
             SignIn.TabIndex = 7;
             SignIn.Text = "Войти";
-            SignIn.UseVisualStyleBackColor = true;
+            SignIn.UseVisualStyleBackColor = false;
             SignIn.Click += SignIn_Click;
             // 
             // Registration
             // 
+            Registration.BackColor = SystemColors.ControlDark;
+            Registration.FlatAppearance.BorderSize = 0;
+            Registration.FlatStyle = FlatStyle.Flat;
             Registration.Location = new Point(476, 48);
             Registration.Name = "Registration";
             Registration.Size = new Size(108, 23);
             Registration.TabIndex = 8;
             Registration.Text = "Регистрация";
-            Registration.UseVisualStyleBackColor = true;
+            Registration.UseVisualStyleBackColor = false;
             Registration.Click += Registration_Click;
             // 
             // TitlePanel
@@ -179,36 +187,36 @@
             TitlePanel.Text = "Профиль";
             TitlePanel.TextAlign = ContentAlignment.MiddleLeft;
             // 
-            // panel1
+            // Panel
             // 
-            panel1.BackColor = SystemColors.ActiveCaption;
-            panel1.Controls.Add(Balance);
-            panel1.Controls.Add(NickName);
-            panel1.Controls.Add(TextBalance);
-            panel1.Controls.Add(TextNickname);
-            panel1.Controls.Add(TitlePanel);
-            panel1.Location = new Point(12, 12);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(200, 71);
-            panel1.TabIndex = 10;
+            Panel.BackColor = SystemColors.ActiveCaption;
+            Panel.Controls.Add(Balance);
+            Panel.Controls.Add(NickName);
+            Panel.Controls.Add(TextBalance);
+            Panel.Controls.Add(TextNickname);
+            Panel.Controls.Add(TitlePanel);
+            Panel.Location = new Point(12, 12);
+            Panel.Name = "Panel";
+            Panel.Size = new Size(200, 71);
+            Panel.TabIndex = 10;
             // 
             // Balance
             // 
             Balance.AutoSize = true;
             Balance.Location = new Point(101, 50);
             Balance.Name = "Balance";
-            Balance.Size = new Size(38, 15);
+            Balance.Size = new Size(27, 15);
             Balance.TabIndex = 13;
-            Balance.Text = "label1";
+            Balance.Text = "null";
             // 
             // NickName
             // 
             NickName.AutoSize = true;
             NickName.Location = new Point(101, 27);
             NickName.Name = "NickName";
-            NickName.Size = new Size(38, 15);
+            NickName.Size = new Size(27, 15);
             NickName.TabIndex = 12;
-            NickName.Text = "label1";
+            NickName.Text = "null";
             // 
             // TextBalance
             // 
@@ -253,7 +261,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(PriceTicket);
             Controls.Add(StatusPurchased);
-            Controls.Add(panel1);
+            Controls.Add(Panel);
             Controls.Add(Registration);
             Controls.Add(SignIn);
             Controls.Add(CountTickets);
@@ -261,19 +269,19 @@
             Controls.Add(PasswordBox);
             Controls.Add(NickNameBox);
             Controls.Add(BuyTicket);
-            Controls.Add(groupBox1);
+            Controls.Add(groupBox);
             Controls.Add(CinemaName);
             Controls.Add(dateNow);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
+            groupBox.ResumeLayout(false);
+            groupBox.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)trackBar).EndInit();
-            panel1.ResumeLayout(false);
-            panel1.PerformLayout();
+            Panel.ResumeLayout(false);
+            Panel.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -282,7 +290,7 @@
 
         private Label dateNow;
         private Label CinemaName;
-        private GroupBox groupBox1;
+        private GroupBox groupBox;
         private Button BuyTicket;
         private TextBox NickNameBox;
         private TextBox PasswordBox;
@@ -293,7 +301,7 @@
         private Button SignIn;
         private Button Registration;
         private Label TitlePanel;
-        private Panel panel1;
+        private Panel Panel;
         private Label TextBalance;
         private Label TextNickname;
         private Label StatusPurchased;

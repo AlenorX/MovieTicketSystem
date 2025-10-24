@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programming\\MovieTicketSystem\\PurchaseProgram\\ProgramOrder.csproj",
+      "projectUniqueName": "F:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\ProgramOrder.csproj",
       "projectName": "ProgramOrder",
-      "projectPath": "F:\\Programming\\MovieTicketSystem\\PurchaseProgram\\ProgramOrder.csproj",
+      "projectPath": "F:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\ProgramOrder.csproj",
       "packagesPath": "C:\\Users\\ilyal\\.nuget\\packages\\",
-      "outputPath": "F:\\Programming\\MovieTicketSystem\\PurchaseProgram\\obj\\",
+      "outputPath": "F:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
