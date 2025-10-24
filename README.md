@@ -1,16 +1,16 @@
 # MovieTicketSystem
-MovieTicketSystem - система представляет из себя симулятор покупки билетов на сеанс в кино
+MovieTicketSystem is a simulator for purchasing tickets to a movie screening.
 ## MovieTicketSystem состоит из:
-1) SQLite - основная база данных, которая хранить данные о пользователей
-2) Flask - микро-фреймворк. Он используется, как API для обмена данных
-3) Языки программирования: С# и Python
+1) SQLite is the main database that stores user data
+2) Flask is a micro-framework. It is used as an API for data exchange
+3) Programming languages: C# and Python
 
-## Принцип работы
-1) Запускается API и PurchaseProgram
-2) Все действия выполняются в программе (Вход в систему, Регистрация системы, Выбрать количество билетов для покупки и произвести оплату)
-3) Json отправляется по API. Позже данные переливаются в модуль QueryScript. Внутри этого модуля происходят запросы в базу данных
+## The principle of operation
+1) API and PurchaseProgram are launched
+2) All actions are performed in the program (Login, Register, Select the number of tickets to purchase, and make a payment)
+3) Json is sent via API. Later, the data is transferred to the QueryScript module. This module makes requests to the database
 
-Если рассматривать дальнейшее развитие проекта, то можно обеспечиться WSGI для взаимодействия с Flask. Также возможно перенести базу данных с SQLite на MYSQL
+If you consider further development of the project, you can use WSGI to interact with Flask. It is also possible to migrate the database from SQLite to MYSQL
 
- # !НАПОМИНАЮ!
- ## Этот проект является симулятором покупки билетов в кинотеатре на сеанс, где используются взаимодействия с API и Базами данных.
+# !REMINDER!
+## This project is a simulator of buying tickets for a movie show in a cinema, where interactions with APIs and databases are used.
