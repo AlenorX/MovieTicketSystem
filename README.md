@@ -1,5 +1,8 @@
 # MovieTicketSystem
 MovieTicketSystem is a simulator for purchasing tickets to a movie screening.
+
+![Alt text](Images/ViewProject.jpg)
+
 ## MovieTicketSystem состоит из:
 1) SQLite is the main database that stores user data
 2) Flask is a micro-framework. It is used as an API for data exchange
