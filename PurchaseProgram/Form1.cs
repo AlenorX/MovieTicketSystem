@@ -18,11 +18,11 @@ namespace ProgramOrder
 
         }
 
-        public string[] nameFilms = ["Человек паук", "Веном", "Ужасающий", "Твоё имя", "Клинок Рассекающий Демонов: Бесконечный замок 1"];
+        private string[] nameFilms = ["Человек паук", "Веном", "Ужасающий", "Твоё имя", "Клинок Рассекающий Демонов: Бесконечный замок 1"];
         DataTransfer dataTransfer = new DataTransfer();
         User user = new User();
-        public string nicknameData;
-        public string passwordData;
+        private string nicknameData;
+        private string passwordData;
         Design design = new Design();
 
 

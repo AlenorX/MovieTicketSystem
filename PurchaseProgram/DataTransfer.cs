@@ -11,19 +11,19 @@ namespace ProgramOrder
 {
     internal class DataTransfer
     {
-        public class Data()
+        private class Data()
         {
             public string login { get; set; }
             public string password { get; set; }
         }
 
-        public class SessionBuy()
+        private class SessionBuy()
         {
             public string login { get; set; }
             public int money { get; set; }
             
         }
-        public string URL = "http://127.0.0.1:5000/";
+        private string URL = "http://127.0.0.1:5000/";
         Data data = new Data();
         SessionBuy sessionBuy = new SessionBuy();
         public string SignIn(string username, string password)
@@ -89,7 +89,7 @@ namespace ProgramOrder
                 money = money
             };
             string jsonData = JsonSerializer.Serialize(info);
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(URL + "BuyTicket");
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(URL + "buy_ticket");
             request.Method = "POST";
             request.ContentType = "application/json";
             using (StreamWriter writer = new StreamWriter(request.GetRequestStream()))

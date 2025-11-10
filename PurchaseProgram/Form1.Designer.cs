@@ -272,6 +272,9 @@
             Controls.Add(groupBox);
             Controls.Add(CinemaName);
             Controls.Add(dateNow);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
