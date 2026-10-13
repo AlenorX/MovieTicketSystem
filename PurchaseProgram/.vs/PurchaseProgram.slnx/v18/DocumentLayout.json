@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|h:\\programming\\git\\movieticketsystem\\purchaseprogram\\purchaseprogram\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|solutionrelative:purchaseprogram\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|h:\\programming\\git\\movieticketsystem\\purchaseprogram\\purchaseprogram\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|solutionrelative:purchaseprogram\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|h:\\programming\\git\\movieticketsystem\\purchaseprogram\\purchaseprogram\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|solutionrelative:purchaseprogram\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|h:\\programming\\git\\movieticketsystem\\purchaseprogram\\purchaseprogram\\models\\cinemaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE73CB-A52C-8B48-A6C8-3D7D3910C491}|PurchaseProgram\\PurchaseProgram.csproj|solutionrelative:purchaseprogram\\models\\cinemaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PurchaseProgram\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PurchaseProgram\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:20:10.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\Models\\UserClass.cs",
+              "RelativeDocumentMoniker": "PurchaseProgram\\Models\\UserClass.cs",
+              "ToolTip": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\Models\\UserClass.cs",
+              "RelativeToolTip": "PurchaseProgram\\Models\\UserClass.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:17:05.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PurchaseProgram\\MainWindow.xaml",
+              "ToolTip": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\MainWindow.xaml",
+              "RelativeToolTip": "PurchaseProgram\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T21:51:32.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CinemaClass.cs",
+              "DocumentMoniker": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\Models\\CinemaClass.cs",
+              "RelativeDocumentMoniker": "PurchaseProgram\\Models\\CinemaClass.cs",
+              "ToolTip": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\Models\\CinemaClass.cs",
+              "RelativeToolTip": "PurchaseProgram\\Models\\CinemaClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:27:44.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
