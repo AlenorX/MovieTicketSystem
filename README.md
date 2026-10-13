@@ -1,7 +1,7 @@
 # MovieTicketSystem
 
 ## Документация по микросервисам:
-1. Endpoints:
+### 1. Endpoints:
  - **1.1 Cinema-service:**
     - •/cinema/status - Статус микросервиса (GET)
     - • /cinema/movie - Получить список фильмов (GET)
