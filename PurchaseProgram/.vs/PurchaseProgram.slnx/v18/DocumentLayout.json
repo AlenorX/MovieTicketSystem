@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "PurchaseProgram\\MainWindow.xaml.cs",
               "ToolTip": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\MainWindow.xaml.cs",
               "RelativeToolTip": "PurchaseProgram\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T23:20:10.81Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "PurchaseProgram\\Models\\UserClass.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T23:17:05.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T23:17:05.327Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "ToolTip": "H:\\Programming\\Git\\MovieTicketSystem\\PurchaseProgram\\PurchaseProgram\\MainWindow.xaml",
               "RelativeToolTip": "PurchaseProgram\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-12T21:51:32.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T21:51:32.967Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "PurchaseProgram\\Models\\CinemaClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T23:27:44.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T23:27:44.518Z"
             }
           ]
         }

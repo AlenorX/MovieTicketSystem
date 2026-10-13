@@ -1,0 +1,4 @@
+endpoints:
+  status: "/cinema/status"
+  get-movie: "/cinema/movie"
+  price-ticket: "/cinema/price"

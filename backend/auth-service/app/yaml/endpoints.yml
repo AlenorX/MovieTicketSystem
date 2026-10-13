@@ -1,0 +1,5 @@
+endpoints:
+  status: "/auth/status"
+  registration: "/auth/registration"
+  get-user: "/auth/user/"
+  update-balance: "/auth/update/balance"
